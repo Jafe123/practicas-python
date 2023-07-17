@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>=Inicio practicas html</title>
+</head>
+<body>
+<h1>=Lest go guys</h1>
+
+<p>=vamos a hacer programadores de HTML.</p>
+
+<h2>=La estandarizacion </h2>
+<p>=Asi comenzamos a realizar la pagina html.</p>
+</body>
+</html>
